@@ -5,7 +5,7 @@ const btnArea = document.querySelector(".btn-area");
 
 // YES button
 yesBtn.addEventListener("click", () => {
-  message.textContent = "Mujhe pata tha ab aa jao momos khilata hu 😄❤️";
+  message.textContent = "Mujhe pata tha chalo ab shadi krte hai 😄❤️";
 });
 
 // NO button move logic (container ke andar hi)
